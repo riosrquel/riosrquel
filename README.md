@@ -26,9 +26,5 @@
 
   ##
 
-   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PriPrazeress/PriPrazeress/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PriPrazeress/PriPrazeress/output/github-contribution-grid-snake.svg">
-   </picture>
-  
+  ![Snake animation](https://github.com/riosrquel/riosrquel/blob/output/github-contribution-grid-snake.svg)
 
