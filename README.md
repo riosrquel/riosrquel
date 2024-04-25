@@ -1,4 +1,4 @@
-<div style="center">
+<div align="center">
     <img src="https://media1.tenor.com/m/KVGu1K7h7NoAAAAC/beyonce-beyonc%C3%A9.gif" width="200" height="190" alt="beyoncé-codando">
 </div>
 
@@ -17,7 +17,7 @@
   ##
   <h3 align="center">"To truly be strong, you have to learn to see what's weak." - Jolyne Cujoh</h3> 
 
-  <div style="center">
+  <div align="center">
     <img src="https://media1.tenor.com/m/N2dvfB8jX88AAAAd/jojo-jolyne.gif" width="300" height="140" alt="beyoncé-codando">
 </div>
   
