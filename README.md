@@ -1,5 +1,5 @@
 <div style="text-align:center">
-    <img src="https://media1.tenor.com/m/KVGu1K7h7NoAAAAC/beyonce-beyonc%C3%A9.gif" width="150" height="140" alt="beyoncé-codando">
+    <img src="https://media1.tenor.com/m/KVGu1K7h7NoAAAAC/beyonce-beyonc%C3%A9.gif" width="200" height="200" alt="beyoncé-codando">
 </div>
 
 <h1 align="center"> Olá Devs!, Café? Aceito. </h1>
