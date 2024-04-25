@@ -6,7 +6,7 @@
 
 |     |                                        |                                                        |
 |----------|--------------------------------------------------|--------------------------------------------------------------|
-| 🥇      | Sou mentee da turma 11 do Cloud Girls            | I'm a menteegi of Cloud Girls, Class 11.                      |
+| 🥇      | Sou mentee da turma 11 do Cloud Girls            | I'm a mentee of Cloud Girls, Class 11.                      |
 | ✅       | Hoje eu trabalho com (P&D)                       | Today I work with (R&D).                                    |
 | 🧠       | Estou aprendendo JavaScript, Pyton, SQL, HTML e CSS | I'm learning JavaScript, Python, SQL, HTML, and CSS.     |
 | 🏋️‍♀️🛼     | Meu Hobbie é Musculação e Patinação             | My hobby is weightlifting and skating.                      |
