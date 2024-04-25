@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div style="text-align:center">
     <img src="https://media1.tenor.com/m/KVGu1K7h7NoAAAAC/beyonce-beyonc%C3%A9.gif" width="150" height="140" alt="beyoncé-codando">
 </div>
 
@@ -6,7 +6,7 @@
 
 |     |                                        |                                                        |
 |----------|--------------------------------------------------|--------------------------------------------------------------|
-| 🥇      | Sou membro da turma 11 do Cloud Girls            | I'm a member of Cloud Girls, Class 11.                      |
+| 🥇      | Sou mentee da turma 11 do Cloud Girls            | I'm a menteegi of Cloud Girls, Class 11.                      |
 | ✅       | Hoje eu trabalho com (P&D)                       | Today I work with (R&D).                                    |
 | 🧠       | Estou aprendendo JavaScript, Pyton, SQL, HTML e CSS | I'm learning JavaScript, Python, SQL, HTML, and CSS.     |
 | 🏋️‍♀️🛼     | Meu Hobbie é Musculação e Patinação             | My hobby is weightlifting and skating.                      |
