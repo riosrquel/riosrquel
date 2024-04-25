@@ -1,14 +1,26 @@
-# Good morning, devs! 🏋️‍♀️
+<div style="text-align:center;">
+    <img src="https://media1.tenor.com/m/KVGu1K7h7NoAAAAC/beyonce-beyonc%C3%A9.gif" width="150" height="140" alt="beyoncé-codando">
+</div>
 
-- 🥇 Sou meente da turma 11 do Cloud Girls / I'm a member of Cloud Girls, Class 11.
-- ✅ Hoje eu trabalho com (P&D) / Today I work with (R&D).
-- 🧠 Estou aprendendo JavaScript, Pyton, SQL, HTML e CSS / I'm learning JavaScript, Python, SQL, HTML, and CSS.
-- 📨 Contate-me no e-mail: raquel.nmr14@gmail.com / Contact me at the email: raquel.nmr14@gmail.com.
-- 📡 Me encontre no Linkedin:https://www.linkedin.com/in/raquel-rios-analista-de-projetos /  Find me on LinkedIn: https://www.linkedin.com/in/raquel-rios-analista-de-projetos/
-- 💃 Pronouns: Ela/Dela / She/Her
-- 😻 Sou mamãe de uma gatinha chamada Pito / I'm a mommy to a kitten named Pito.
+<h1 align="center"> Olá Devs!, Café? Aceito. </h1>
+
+|     |                                        |                                                        |
+|----------|--------------------------------------------------|--------------------------------------------------------------|
+| 🥇      | Sou membro da turma 11 do Cloud Girls            | I'm a member of Cloud Girls, Class 11.                      |
+| ✅       | Hoje eu trabalho com (P&D)                       | Today I work with (R&D).                                    |
+| 🧠       | Estou aprendendo JavaScript, Pyton, SQL, HTML e CSS | I'm learning JavaScript, Python, SQL, HTML, and CSS.     |
+| 🏋️‍♀️🛼     | Meu Hobbie é Musculação e Patinação             | My hobby is weightlifting and skating.                      |
+| 💃       | Pronouns: Ela/Dela                               | Pronouns: She/Her                                           |
+| 😻       | Sou mamãe de uma gatinha chamada Pito           | I'm a mommy to a kitten named Pito.                         |
+
   
   ##
+  <h3 align="center">"To truly be strong, you have to learn to see what's weak." - Jolyne Cujoh</h3> 
+
+  <div style="text-align:center;">
+    <img src="https://media1.tenor.com/m/N2dvfB8jX88AAAAd/jojo-jolyne.gif" width="300" height="140" alt="beyoncé-codando">
+</div>
+  
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
